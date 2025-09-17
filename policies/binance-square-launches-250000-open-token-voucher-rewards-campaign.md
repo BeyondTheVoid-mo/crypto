@@ -1,0 +1,3 @@
+{
+  "content": "Binance Square has just launched a thrilling campaign, offering **250,000 OPEN token voucher rewards** to its verified users! Join the fun by creating content, completing trading tasks, and engaging in the OpenLedger community. Don't miss out on this exciting opportunity to earn tokens while sharing your insights.\n\nStart unlocking your rewards today at: [Unlock Your OPEN Token Rewards Today!](https://chain-base.xyz/binance-square-launches-250000-open-token-voucher-rewards-campaign)"
+}
