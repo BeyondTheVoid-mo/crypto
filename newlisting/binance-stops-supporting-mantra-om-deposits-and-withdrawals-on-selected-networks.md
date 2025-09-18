@@ -1,0 +1,5 @@
+MANTRA (OM) is a decentralized protocol designed to foster community-driven initiatives, offering staking, governance, and enhanced crypto experiences. However, on September 14, 2025, Binance announced it will cease support for OM deposits and withdrawals on Ethereum (ERC20) and BNB Smart Chain (BEP20) starting from September 26, 2025.
+
+This change impacts users relying on these networks. Deposits through Ethereum (ERC20) will no longer be credited, while both Ethereum (ERC20) and BNB Smart Chain (BEP20) withdrawals will be disabled. To stay informed and manage your investments effectively, follow the latest updates from Binance and MANTRA's official channels.
+
+Interested in learning more? Check out our detailed guide on navigating these changes: [Explore Here](https://chain-base.xyz/binance-stops-supporting-mantra-om-deposits-and-withdrawals-on-selected-networks)
