@@ -1,0 +1,1 @@
+Binance is listing **Pump.fun (PUMP)**, a meme coin on the Solana blockchain. This launch offers innovative investment opportunities starting from September 11, 2025. Dive into the world of creative tokens and explore new possibilities with Pump.fun. [Read more](https://chain-base.xyz/binance-lists-pump-fun-pump-new-meme-coin-with-seed-tag)
