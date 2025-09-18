@@ -1,0 +1,5 @@
+On September 10, 2025, Bybit is set to list XUSD on its Convert platform, allowing users seamless access to over 400 crypto assets without any fees. This move promises enhanced liquidity and market depth for traders, paving the way for broader accessibility. If you're intrigued by this development and want to know more about the benefits of the Convert platform or how to get started with XUSD, [read on](https://chain-base.xyz/bybit-announces-listing-of-xusd-on-convert).
+
+Bybit Convert offers a user-friendly experience with its zero fees, wide selection, and swift transactions. As we dive deeper into this update, you'll discover why listing XUSD is a significant step towards diversification, risk management, and strategic trading opportunities.
+
+For detailed guidance on converting your assets or exploring the features of Bybit Convert, [refer to our user guide](https://www.bybit.com/en/help-center/article/How-to-convert-your-assets). Stay informed and plan your strategies as the date approaches.
