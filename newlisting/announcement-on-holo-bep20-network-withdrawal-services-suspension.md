@@ -1,0 +1,7 @@
+Bitget, a leading crypto exchange, has announced the suspension of withdrawal services for the HOLO-BEP20 network starting on September 19, 2025, at 14:23 (UTC+8). This move aims to enhance trading experiences while ensuring transaction safety and integrity. While trading activities remain unaffected during this period, users are encouraged to stay updated through Bitget's official channels for recovery timelines and further instructions.
+
+Bitget’s decision is part of its ongoing efforts to maintain a secure trading environment. The suspension is not uncommon in the crypto space, often implemented in response to network issues, security threats, or regulatory requirements. Users are advised to remain connected via platforms such as [Twitter](https://twitter.com/bitgetglobal) and [Telegram](https://t.me/BitgetENOfficial) for important updates.
+
+For more information and updates, visit Bitget's [official support center](https://www.bitget.com/support).
+
+Dive deeper into the details of this suspension by reading the full announcement: [Announcement on HOLO-BEP20 Network Withdrawal Services Suspension](https://chain-base.xyz/announcement-on-holo-bep20-network-withdrawal-services-suspension)
