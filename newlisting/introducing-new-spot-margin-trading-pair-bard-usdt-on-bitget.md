@@ -1,0 +1,1 @@
+Bitget has just added a new spot margin trading pair: **BARD/USDT**. Dive into the details and learn how to benefit from this exciting opportunity [here](https://chain-base.xyz/introducing-new-spot-margin-trading-pair-bard-usdt-on-bitget). Explore new markets, utilize advanced tools, and stay informed with Bitget’s resources.
