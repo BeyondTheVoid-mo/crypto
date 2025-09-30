@@ -1,0 +1,3 @@
+# Bitget Lists zkVerify (VFY) in the Innovation Zone: Everything You Need to Know
+
+ zkVerify (VFY) is set to make a big splash on Bitget’s Innovation Zone, launching on September 30, 2025. This cutting-edge project aims to transform proof verification across various applications, leveraging Zero Knowledge proofs for efficiency and security. Don’t miss out on the details—read more [here](https://chain-base.xyz/bitget-lists-zkverify-vfy-in-the-innovation-zone-everything-you-need-to-know).
