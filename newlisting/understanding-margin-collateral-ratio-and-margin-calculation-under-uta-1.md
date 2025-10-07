@@ -1,0 +1,3 @@
+# Understanding Margin Collateral Ratio and Margin Calculation under UTA
+
+In the world of cryptocurrency trading, understanding margin trading mechanics is crucial for both beginners and seasoned investors. This article breaks down key concepts such as **margin collateral ratio** and margin calculation within Bitget’s Unified Trading Account (UTA). Discover how these elements impact your buying power and risk exposure. Dive into the details [here](https://chain-base.xyz/understanding-margin-collateral-ratio-and-margin-calculation-under-uta), where you'll explore various account modes, essential calculations, and advanced trading rules.
