@@ -1,0 +1,3 @@
+# Resumption of HOLO-SOL Network Withdrawals at Bitget
+
+On October 6, 2025, Bitget announced the resumption of withdrawal services for the HOLO-SOL network. This comes after necessary maintenance and updates, ensuring enhanced performance and security. Explore how this affects users and learn more about the HOLO project [here](https://chain-base.xyz/resumption-of-holo-sol-network-withdrawals-at-bitget).
